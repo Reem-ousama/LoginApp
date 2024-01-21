@@ -1,0 +1,44 @@
+body{
+height: 100vh;
+background-color: #24353F;
+}
+
+
+#welcome h1{
+    color: #0DCAF0;
+    background-color:#24353F;
+    border: #24353F 1px solid;
+    box-shadow: rgb(21, 21, 21) 1px 1px 40px 5px;
+}
+
+nav{
+border: #24353F 4px solid;
+box-shadow: rgb(21, 21, 21) 1px 1px 40px 5px;
+
+}
+
+.login-box{
+    border: #24353F 1px solid;
+    box-shadow: rgb(21, 21, 21) 1px 1px 40px 5px;
+
+}
+
+.input-text{
+    color: white;
+background-color: #24353F;
+
+}
+.input-text2{
+    color: #0DCAF0;
+background-color: #24353F;
+border: #0DCAF0 1px solid;
+width: 100%;
+
+}
+.login-box h5 a{
+    text-decoration: none; 
+}
+
+.login-box a:hover{
+    text-decoration: underline;
+}
